@@ -1,2 +1,3 @@
-# v8-impersonation
-recreating as best as can website featuring v8 and campbell products
+# V8 IMPERSONATION
+
+**objectjective:** *recreating as best as can website featuring v8 and campbell products*
