@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav.top-menu {
+    width: 107%;
+    margin: -1em;
+    padding: 1.25em 0;
+    background-color: lightgrey;
+}
+
+li {
+    float: left;
+    padding-left: 2em;
+    list-style-type: none;
+}
+
+.logo {
+    margin-top: -5em;
+}
+
+.campbell {
+    width: 4.65em;
+    height: auto;
+}
+
+.swanson {
+    width: 1.5em;
+    height: auto;
+    margin-top: -1.5em;
+}
+
+.prego {
+    width: 4.25em;
+}
+
+.pace {
+    width: 3.75em;
+    margin-top: -1.5em;
+}
+
+.csc {
+    float: right;
+    font-size: small;
+    margin-top: -1em;
+    margin-right: 13em;
+}
+
+.secondary-menu {
+    margin-top: 3em;
+}
+
+.second-menu-items {
+    font-size: large;
+}
+
+.v8-logo {
+    width: 4em;
+    margin-right: 20em;
+}
+
+.trademark {
+    font-size: .25em;
+}
+
+.search-icon {
+    width: 2em;
+}
+
+div {
+    text-align: center;
+}
+
+.endcard {
+    width: 97%;
+    margin-top: 1.25em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 1.5em;
+}
+
+.bottle {
+    width: 7.25em;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bottle1 {
+    margin-right: 3.75em;
+}
+
+
+.bottle3 {
+    margin-left: 3.75em;
+}
+
+.column {
+    float: left;
+}
+
+.rline {
+    padding-right: 5em;
+    padding-left: 5em;
+    border-right: .05em dotted lightgray;
+    border-left: .05em dotted lightgray;
+}
+
+.juice-div {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#btn-div-div {
+    margin: 0 auto;
+}
+
+.btn-div {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.btn-products,
+.btn-learn {
+    background-color: rgb(252, 223, 252);
+    font-weight: bold;
+    padding: .5em 1.75em;
+    border-radius: 1em;
+    border: .25em solid #315998;
+}
+
+.btn-products {
+    margin: 5em 0;
+}
