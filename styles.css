@@ -50,6 +50,11 @@ li {
     margin-right: 13em;
 }
 
+.csc:hover {
+    color:
+        #315998
+}
+
 .secondary-menu {
     margin-top: 3em;
 }
@@ -69,6 +74,10 @@ li {
 
 .search-icon {
     width: 2em;
+}
+
+.search-icon:hover {
+    filter: invert();
 }
 
 div {
@@ -99,13 +108,16 @@ h1 {
     margin-right: 3.75em;
 }
 
-
 .bottle3 {
     margin-left: 3.75em;
 }
 
 .column {
     float: left;
+}
+
+.column.col-text:hover {
+    color: #315998;
 }
 
 .rline {
@@ -130,13 +142,16 @@ h1 {
     margin-left: auto;
 }
 
-.btn-products,
-.btn-learn {
+.btn-products {
     background-color: rgb(252, 223, 252);
     font-weight: bold;
     padding: .5em 1.75em;
     border-radius: 1em;
     border: .25em solid #315998;
+}
+
+.btn-products:hover {
+    border: .15em solid #315998;
 }
 
 .btn-products {
